@@ -1,5 +1,5 @@
 {
-    "name": "nexusphp/semifinals",
+    "name": "nexusphp/semi-finals",
     "type": "library",
     "description": "Removes T_FINAL token on-the-fly from final classes and methods in order to allow mocking in tests.",
     "license": "MIT",
@@ -43,8 +43,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "support": {
-        "issues": "https://github.com/NexusPHP/semifinals/issues",
-        "source": "https://github.com/NexusPHP/semifinals.git",
+        "issues": "https://github.com/NexusPHP/semi-finals/issues",
+        "source": "https://github.com/NexusPHP/semi-finals.git",
         "slack": "https://nexusphp.slack.com"
     }
 }
